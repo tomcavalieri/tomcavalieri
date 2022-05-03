@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomcavalieri
+- 👋 Hi, I’m Tommaso Cavalieri 
 - 👀 I’m interested in Data Science, Machine Learning and Artificial inteligence
 - 🌱 I’m currently learning from which of their countless application society could benefit the most one day
 - 💞️ I’m looking to collaborate on everything that might help people live better in today's and tomorrow's world
