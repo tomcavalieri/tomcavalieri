@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tommaso Cavalieri 
+- 👋 Hi, I’m Tommaso Cavalieri and I am currently a graduate student in Data Science & Business Informatics @ the University of Pisa
 - 👀 I’m interested in Data Science, Machine Learning and Artificial inteligence
 - 🌱 I’m currently learning from which of their countless application society could benefit the most one day
 - 💞️ I’m looking to collaborate on everything that might help people live better in today's and tomorrow's world
